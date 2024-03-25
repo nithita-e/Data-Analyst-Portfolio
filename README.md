@@ -20,7 +20,7 @@ Which conrtains ..
 
 Even though I am full with passion to learned and improved on both of hards and soft skills for Data Analyst role, I'm sure that I still have some mistakes on these project. So, if you have any suggestions, a better solution, or a different perspective. Please let me know, I'm pleased to improve.
 
-Thank you so much
-Nithita E.
+**Thank you so much**  
+**Nithita E.**
 
  

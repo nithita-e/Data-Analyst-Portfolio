@@ -3,10 +3,10 @@ This repository contains my projects from every step of my data analyst career p
 
 - Python for Data Analyst  from : DataCamp (2024)
 - SQL for Data Analyst from : DataCamp (2024)
-- Data Analyst Professional : DataRockie (2023)
-- And also my own project analysis.
+- Data Analyst Professional : DataRockie (2023)  
+And also my own project analysis.
 
-Which conrtains ..  
+Which contains ..  
    1. **Airbnb, Seattle - Overall rating score analysis :**  
  	**Description** : This project analyzes a dataset of Airbnb listings in Seattle, focusing on the relationship between specific rating components (cleanliness, accuracy, value) and overall guest satisfaction (overall rating). The investigation aims to understand if hosts in less desirable locations can potentially mitigate location drawbacks by excelling in maintainable aspects of their listings.  
 	 **Conclusion** : While maintaining cleanliness, accuracy, and value are essential for Airbnb listings, these factors alone may not be enough to fully compensate for a less desirable location in terms of overall guest rating. Further exploration might consider additional factors influencing location perception and guest satisfaction.

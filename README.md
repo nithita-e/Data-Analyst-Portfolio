@@ -4,7 +4,7 @@ This repository contains my projects from every step of my data analyst career p
 - Python for Data Analyst  from : DataCamp (2024)
 - SQL for Data Analyst from : DataCamp (2024)
 - Data Analyst Professional : DataRockie (2023)  
-And also my own project analysis.
+- And also my own analysis project.
 
 Which contains ..  
    1. **Airbnb, Seattle - Overall rating score analysis :**  
@@ -19,6 +19,9 @@ Which contains ..
    	**Description** : This project is to testing hypothesis about the mean number of goals scored in women and men soccer matches. Through this project, I import, clean, and manipulate data for explore and understand more about this dataset, I also performed Bootstrapping for estimating sampling distribution and tested hypothesis testing by calculated t-test and p-value.
 5. **OOP ATM** :  
    	**Description** : Creating OOP (Object Oriented Programming), to create a ATM class, including to their attributes and methods. Through this project, I also used `if` statements within the method, to verify user identity.
+6. **Create Translate Function (En - Th)** :  
+   	**Description** : When you're calling `translate_th()` function, it helps to translate all rows in the column and then creates new column named "th" in the existing DataFrame, which can help you to manipulate data more quickly.  
+   
 
 Even though I am full with passion to learned and improved on both of hards and soft skills for Data Analyst role, I'm sure that I still have some mistakes on these project. So, if you have any suggestions, a better solution, or a different perspective. Please let me know, I'm pleased to improve.
 

@@ -21,8 +21,8 @@ Which contains ..
    	**Description** : Creating OOP (Object Oriented Programming), to create a ATM class, including to their attributes and methods. Through this project, I also used `if` statements within the method, to verify user identity.
 6. **Create Translate Function (En - Th)** :  
    	**Description** : When you're calling `translate_th()` function, it helps to translate all rows in the column and then creates new column named "th" in the existing DataFrame, which can help you to manipulate data more quickly.
-7. **KMeans Penguin Dataset**
-	**Description** : Uses KMeans clustering to classify penguin species based on body
+7. **Create Translate Function (En - Th)** :  
+   	**Description** : Uses KMeans clustering to classify penguin species based on body
 measures. Performs Exploratory Data Analysis (EDA) to interpret data and check for data quality, such as
 missing values and outliers, using a boxplot, and preprocessed data by dropping rows with missing
 values greater than a particular threshold and removing outliers discovered with IQR. Including
